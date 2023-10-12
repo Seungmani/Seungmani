@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 </div>
 
-<div align="center">
-	<a href="https://github.com/Seungmani">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungmani&layout=compact">
-	</a>
-	<img src="https://github-readme-stats.vercel.app/api?username=Seungmani&show_icons=true&show_icons=true&include_all_commits=true">
-</div>
+
+<a href="https://github.com/Seungmani"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Seungmani&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+
