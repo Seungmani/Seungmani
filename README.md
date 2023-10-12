@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 		<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungmani&layout=compact&theme=nord&hide_border=true" />
 	</a> 
 </div>
+
 <div align="center">
 	<a href="https://github.com/Seungmani">
 		<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Seungmani&count_private=true&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
