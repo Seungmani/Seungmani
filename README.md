@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 </div>
-
-
-<a href="https://github.com/Seungmani"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Seungmani&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<div align="center">
+	<a href="https://github.com/Seungmani">
+		[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungmani)](https://github.com/anuraghazra/github-readme-stats)
+	</a> 
+</div>
+<div align="center">
+	<a href="https://github.com/Seungmani">
+		<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Seungmani&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+	</a>
+</div>
 
