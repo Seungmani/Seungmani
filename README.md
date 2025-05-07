@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-3178C6?&logo=typescript&logoColor=white"> 
     <img src="https://img.shields.io/badge/Zustand-2C8EBB?&logo=zustand&logoColor=white"> 
-    <image src="https://img.shields.io/badge/TailwindCSS-06B6D4?&logo=Tailwind CSS&logoColor=white"> 
+    <image src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?&logo=Tailwind CSS&logoColor=white"> 
     <image src="https://img.shields.io/badge/DaisyUI-6DB33F?&logo=DaisyUI&logoColor=white">
 </div>
 <div align="center">
